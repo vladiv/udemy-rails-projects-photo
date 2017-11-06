@@ -1,5 +1,7 @@
 /* global Rails, Turbolinks, $*/
 
+import 'bootstrap';
+
 export default function () {
   Rails.start();
   Turbolinks.start();
